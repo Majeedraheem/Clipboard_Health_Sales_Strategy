@@ -23,7 +23,7 @@ Target high-demand regions like NYC, focusing on facilities with high occupancy 
 
 ### Supporting Data
 -### Supporting Data
-![Chart 1.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/chart1.1.png)
+![Chart 1.1](/Clipboard_Health_Sales_Strategy/graphs/chart1.1.png)
 ![Chart 1.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.2.png)
 ![Chart 1.3](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.3.png)
 ![Chart 1.4](./Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.4.png)
