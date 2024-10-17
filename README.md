@@ -1,4 +1,12 @@
 # Clipboard Health Sales Strategy Recommendations
+## Introduction
+The Centers for Medicaid and Medicare Services publish a quarterly report containing daily staffing data for all registered nursing homes in the U.S. This dataset is called Payroll Based Journal (PBJ) Daily Nurse Staffing
+## Goal
+Analyze the PBJ data and any other CMS data that could be see fit to make a few recommendations to the Clipboard Health sales leadership team
+## Technologoies
+- Jupyter lab
+- Python
+- libraries: Seaborn, Pandas, Matplotlib,
 
 ## Table of Contents
 - [Recommendation 1: Leverage High Staffing Demand in New York City](#recommendation-1-leverage-high-staffing-demand-in-new-york-city)
@@ -80,7 +88,7 @@ Focus on recruiting and onboarding more CNAs as the primary staffing target. Ens
 2. **Position LPNs as the Second Priority**: Highlight the app's flexibility to meet both CNA and LPN staffing needs.
 
 ### Supporting Data
-- ![Average Staffing Composition Chart4.1](graphs/Chart4.png)
+- ![Average Staffing Composition Chart4.1](graphs/Chart4.1.png)
 - ![Average Staffing Composition by Management Structure Chart4.2](graphs/Chart4.2png)
 
 ---
