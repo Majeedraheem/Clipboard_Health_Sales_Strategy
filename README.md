@@ -22,11 +22,14 @@ Focus sales efforts on densely populated regions like NYC, where the need for te
 Target high-demand regions like NYC, focusing on facilities with high occupancy rates and recurring staffing shortages. These facilities require flexible, fast-response staffing solutions to manage their ongoing challenges.
 
 ### Supporting Data
--### Supporting Data
-![Chart 1.1](graphs/chart1.1.png)
-![Chart 1.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.2.png)
-![Chart 1.3](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.3.png)
-![Chart 1.4](./Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.4.png)
+
+![Facilities Providers by State Chart1.1](graphs/chart1.1.png)
+
+![Top 10 Facilities by Total Hours Worked And States Chart1.2](graphs/Chart1.2.png)
+
+![Top 10 State by Total Hours Worked Chart1.3](graphs/Chart1.3.png)
+
+![Average Occupancy Across States Chart1.4](graphs/Chart1.4.png)
 
 
 ---
@@ -43,8 +46,8 @@ Promote the app as a high-availability staffing solution that provides reliable,
 Target facilities that experience seasonal surges, emphasizing the app’s ability to ensure a steady flow of qualified staff, reducing the risk of understaffing during peak times.
 
 ### Supporting Data
-- ![Chart 2.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart2.1.png)
-- - ![Chart 2.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart2.2.png)
+- ![Occupancy Trends Over Time Chart 2.1](graphs/Chart2.1.png)
+- - ![Average Total Staffing Hours by Day of Week Chart 2.2](graphs/Chart2.2.png)
 
 ---
 
@@ -60,7 +63,7 @@ Promote the app as a real-time staffing optimization tool, enabling facilities t
 Focus on nursing facilities with staffing imbalances, particularly during high-demand periods where resident census spikes. Emphasize the app’s capability to optimize workforce ratios in real-time, minimizing costs and improving care outcomes.
 
 ### Supporting Data
-- ![Chart 3](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart3.png)
+- ![Occupancy vs.Staffing Working Hours Chart 3](graphs/Chart3.png)
 
 ---
 
@@ -77,8 +80,8 @@ Focus on recruiting and onboarding more CNAs as the primary staffing target. Ens
 2. **Position LPNs as the Second Priority**: Highlight the app's flexibility to meet both CNA and LPN staffing needs.
 
 ### Supporting Data
-- ![Chart4.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart4.png)
-- ![Chart4.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart4.2png)
+- ![Average Staffing Composition Chart4.1](graphs/Chart4.png)
+- ![Average Staffing Composition by Management Structure Chart4.2](graphs/Chart4.2png)
 
 ---
 
@@ -109,7 +112,7 @@ Analysis from the "NH_Ownership_Sep2024" dataset indicates organization-owned an
 2. **For Longer Tenure Facilities**: Position the app as a tool for improving staffing efficiency and stability.
 3. **Educational Resources**: Provide training sessions and educational resources for facility management teams on effectively utilizing the app.
 
-### Supporting Data
+### Supporting Data & Resources
 - Analysis from NH_Ownership_Sep2024
-
+-https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services
 ---
