@@ -1,5 +1,3 @@
-# Let's create the markdown content and save it as a .md file
-markdown_content = """
 # Clipboard Health Sales Strategy Recommendations
 
 ## Table of Contents
@@ -24,10 +22,12 @@ Focus sales efforts on densely populated regions like NYC, where the need for te
 Target high-demand regions like NYC, focusing on facilities with high occupancy rates and recurring staffing shortages. These facilities require flexible, fast-response staffing solutions to manage their ongoing challenges.
 
 ### Supporting Data
-- Chart 1.1
-- Chart 1.2
-- Chart 1.3
-- Chart 1.4
+-### Supporting Data
+![Chart 1.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/chart1.1.png)
+![Chart 1.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.2.png)
+![Chart 1.3](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.3.png)
+![Chart 1.4](./Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart1.4.png)
+
 
 ---
 
@@ -43,8 +43,8 @@ Promote the app as a high-availability staffing solution that provides reliable,
 Target facilities that experience seasonal surges, emphasizing the app’s ability to ensure a steady flow of qualified staff, reducing the risk of understaffing during peak times.
 
 ### Supporting Data
-- Chart 2.1
-- Chart 2.2
+- ![Chart 2.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart2.1.png)
+- - ![Chart 2.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart2.2.png)
 
 ---
 
@@ -60,7 +60,7 @@ Promote the app as a real-time staffing optimization tool, enabling facilities t
 Focus on nursing facilities with staffing imbalances, particularly during high-demand periods where resident census spikes. Emphasize the app’s capability to optimize workforce ratios in real-time, minimizing costs and improving care outcomes.
 
 ### Supporting Data
-- Chart 3
+- ![Chart 3](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart3.png)
 
 ---
 
@@ -77,7 +77,8 @@ Focus on recruiting and onboarding more CNAs as the primary staffing target. Ens
 2. **Position LPNs as the Second Priority**: Highlight the app's flexibility to meet both CNA and LPN staffing needs.
 
 ### Supporting Data
-- Chart 4
+- ![Chart4.1](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart4.png)
+- ![Chart4.2](/Users/mac/Desktop/Clipboard_Health_Sales_Strategy/graphs/Chart4.2png)
 
 ---
 
@@ -112,6 +113,3 @@ Analysis from the "NH_Ownership_Sep2024" dataset indicates organization-owned an
 - Analysis from NH_Ownership_Sep2024
 
 ---
-
-This README provides a structured set of recommendations to guide Clipboard Health’s sales strategy, based on key market observations and data analysis.
-"""
