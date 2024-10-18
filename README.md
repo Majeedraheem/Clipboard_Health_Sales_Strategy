@@ -56,7 +56,8 @@ Occupancy Trends: The MDScensus data for early January shows an upward trend in 
 ## Recommendation 3: Market the App as a Real-Time Staffing Optimization Tool
 ## Observation:
 Nursing facilities frequently struggle to maintain the optimal balance of Certified Nursing Assistants (CNAs), Registered Nurses (RNs), and Licensed Practical Nurses (LPNs). Overstaffing results in unnecessary costs, while understaffing compromises patient care quality and may lead to compliance issues. The data indicates a high density of CNAs, with their staffing levels positively correlating with RNs and LPNs. However, shortages arise when resident demand (as shown by the MDScensus) spikes between 500 and 700 residents, creating gaps that need to be filled (see Chart 3).
-## Recommendation: Promote Clipboard Health’s app as a real-time staffing optimization solution, enabling facilities to monitor and adjust staffing levels dynamically. By leveraging this tool, administrators can fine-tune their workforce mix, ensuring they have the correct ratio of CNAs, RNs, and LPNs to meet patient care requirements while avoiding excess labor costs. The app’s flexibility allows facilities to respond quickly to sudden increases in demand, reduce the risk of overstaffing, and improve overall operational efficiency, leading to better patient outcomes.
+## Recommendation:
+Promote Clipboard Health’s app as a real-time staffing optimization solution, enabling facilities to monitor and adjust staffing levels dynamically. By leveraging this tool, administrators can fine-tune their workforce mix, ensuring they have the correct ratio of CNAs, RNs, and LPNs to meet patient care requirements while avoiding excess labor costs. The app’s flexibility allows facilities to respond quickly to sudden increases in demand, reduce the risk of overstaffing, and improve overall operational efficiency, leading to better patient outcomes.
 ## Market Focus:
 1. *** Based on the observations, Clipboard Health should focus on nursing facilities struggling with staffing imbalances, particularly in high-demand periods where resident census spikes (e.g., MDScensus between 500 and 700). Facilities in regions with high CNA, RN, and LPN staffing correlations are ideal targets, as they require dynamic, real-time adjustments to avoid overstaffing or critical shortages.**
 2. **Emphasize the app’s capability to optimize the workforce, ensuring the correct staffing ratios in real-time to minimize costs and improve care outcomes. Areas with high average occupancy (see chart 1.4) tend to experience higher staffing demands and should be priority markets.**
@@ -78,7 +79,7 @@ Given their significant share of working hours, focus on recruiting and onboardi
 
 ### Supporting Data
 - ![Average Staffing Composition Chart4.1](graphs/Chart4.1.png)
-- ![Average Staffing Composition by Management Structure Chart4.2](graphs/Chart4.2png)
+- ![Average Staffing Composition by Management Structure Chart4.2](graphs/Chart4.2.png)
 
 ---
 
@@ -97,10 +98,14 @@ Sales efforts should focus on promoting Clipboard Health’s app as a consistent
 - ![Chart 5.1](graphs/Chart5.1.png)
 - ![Chart 5.2](graphs/Chart5.2.png)
 - ![Chart 5.3](graphs/Chart5.3.png)
+- ![Chart 5.4](graphs/Chart5.4.png)
+
 
 ---
 
 ### Supporting Data & Resources
-- Analysis from NH_Ownership_Sep2024
--https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services
+- PBJ_Daily_Nurse_Staffing_2024Q1
+- NH_Ownership_Sep2024
+- NH_Providers_Info_Sep2024
+- https://data.cms.gov/provider-data/search?theme=Nursing%20homes%20including%20rehab%20services
 ---
