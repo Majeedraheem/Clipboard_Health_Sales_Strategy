@@ -84,7 +84,7 @@ Given their significant share of working hours, focus on recruiting and onboardi
 ---
 
 ## Recommendation 5: Target Facilities Needing Flexible and Consistent Staffing Solutions
-### bservation:
+### Observation:
 The data shows that contractor hours remain steady while employee hours fluctuate, indicating that contractors and full-time employees serve distinct roles in healthcare staffing. Contractors offer consistent support during high and low-demand periods without directly replacing full-time employees (see Chart 5.1). Furthermore, analysis of the "NH_Ownership_Sep2024" dataset reveals that organization-owned facilities and those with shorter ownership tenures (less than 10 years) experience greater variability in staffing hours, often facing periods of intense demand (see Chart 5.2). These facilities are more susceptible to sudden staffing peaks, highlighting the need for flexible and adaptable staffing solutions.
 In contrast, longer-tenure facilities display more stability in their staffing needs but could still benefit from improved workforce management tools. Additionally, analysis of the "NH_Providers_Info_Sep2024" dataset suggests that nonprofit and for-profit facilities experience similar variability in staffing needs despite having comparable median working hours across all facility types (see Chart 5.3). This consistency in median staffing hours points to a baseline level of staffing requirements, regardless of the variability in demand across different ownership structures.
 
